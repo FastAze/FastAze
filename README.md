@@ -3,7 +3,7 @@
 
 ## Stats 📊 :
 
-[![FastAze's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=FastAze&show_icons=true&theme=catppuccin_mocha&hide_border=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![FastAze's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=FastAze&show_icons=true&theme=catppuccin_mocha&hide_border=true)](https://github.com/pranesh-2005/github-readme-stats-fast)[![FastAze's GitHub languages stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FastAze&show_icons=true&theme=catppuccin_mocha&hide_border=true&langs_count=3)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ## Experience 💼 :
 
