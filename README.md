@@ -60,6 +60,7 @@ Self-hosted Forgejo and Vaultwarden on rootless Podman containers, localhost-onl
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
 [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#)
 [![SteamOS](https://img.shields.io/badge/SteamOS-1A9FFF?logo=steam&logoColor=fff)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
 ## Stats 📊
 
